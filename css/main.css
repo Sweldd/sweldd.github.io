@@ -72,6 +72,20 @@ p {
   font-family: 'Montserrat', sans-serif;
 }
 
+li {
+  font-size: 16px;
+  line-height: 26px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 980px;
+  max-width: 100%;
+  margin: auto;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+}
+
 .subtitle {
   color: #8e8e8e;
   font-style: italic;
