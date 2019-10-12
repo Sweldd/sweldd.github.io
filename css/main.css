@@ -15,8 +15,23 @@ h1 {
   font-weight: 900;
 }
 h2 {
-  font-size: 30px;
-  line-height: 40px;
+  font-size: 40px;
+  line-height: 50px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 980px;
+  max-width: 100%;
+  margin: auto;
+  text-align: center;
+  color: #2b60f2;
+  //text-shadow: 2px 2px 2px #aaa;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+h3 {
+  font-size: 40px;
+  line-height: 50px;
   padding-top: 20px;
   padding-left: 10px;
   padding-right: 10px;
@@ -29,23 +44,9 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
 }
-h3 {
+h4 {
   font-size: 30px;
   line-height: 40px;
-  padding-top: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
-  width: 980px;
-  max-width: 100%;
-  margin: auto;
-  text-align: center;
-  color: #2b60f2;
-  //text-shadow: 2px 2px 2px #aaa;
-  font-family: 'Montserrat', sans-serif;font-weight: 400;
-}
-h4 {
-  font-size: 20px;
-  line-height: 30px;
   padding-top: 20px;
   padding-left: 10px;
   padding-right: 10px;
@@ -58,6 +59,22 @@ h4 {
   font-weight: 400;
   //text-decoration: underline;
 }
+
+h5 {
+  font-size: 16px;
+  line-height: 26px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 980px;
+  max-width: 100%;
+  margin: auto;
+  text-align: justify;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+
 p {
   font-size: 16px;
   line-height: 26px;
